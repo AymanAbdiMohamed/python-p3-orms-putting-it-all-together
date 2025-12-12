@@ -1,4 +1,4 @@
-from dog import Dog, CONN, CURSOR
+from lib.dog import Dog, CONN, CURSOR
 
 class TestDog:
     '''Class Dog in dog.py'''
